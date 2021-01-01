@@ -1,7 +1,22 @@
 h1 {
-	color:#FCEAFF;
+	color:#441C86;
 }
 
 body {
-	background-color:#441C86
+	background-color:#B1A8B9;
+}
+
+.navbar {
+	font-family: Calibri, sans-serif;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.navlink {
+	color: #7C7484;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration:underline;
 }
